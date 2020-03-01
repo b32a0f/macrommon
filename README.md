@@ -1,8 +1,7 @@
 # macrommon
-Inactive Window Automation Functions with Python and Win32 API.
+Inactive Window Automation Python Module with Win32 API.
 
-Developed for game macro using Android emulator.
-Tested on LDPlayer.
+Developed for game macro using Android emulator. Tested on LDPlayer.
 
 I HATE AHK.
   
